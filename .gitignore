@@ -1,0 +1,70 @@
+# Virtual Environment
+myocr/
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments and secrets
+.env
+.env.local
+*.env
+config.json
+credentials.json
+secrets.toml
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data and output files
+data/
+uploads/
+*.log
+logs/
+output/
+results/
+temp/
+cached/
+.chroma/
+vector_store/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb

@@ -1,0 +1,3 @@
+"""
+OCR Agent application package.
+"""
